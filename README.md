@@ -24,3 +24,11 @@ Navigator: A.J. Wohlfert
   Updated JavaScript & HTML. Question Alerts are now displayed on the page.
   Wrapped questions in functions.
 
+Oct 30th:
+Updates to the code today was worked on by the following individuals:
+
+Driver: George Ascherl
+Navigator: A.J. Wohlfert
+
+  Added CSS and Pictures
+
